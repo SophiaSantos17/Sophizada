@@ -1,5 +1,4 @@
-    <h1>Hi devs, sou a Sophia, tenho 18 anos e Atualmenste estudo Programação!!!</h1>
-
+Hi devs, sou a Sophia, tenho 18 anos e Atualmenste estudo Programação!!!
 
 
 
